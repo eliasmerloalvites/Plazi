@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Plazi</string>
+    <string name="title_activity_referencia">ReferenciaActivity</string>
+    <string name="txtUser">Nombre usuario</string>
+    <string name="txtPass">Contraseña</string>
+    <string name="btnLogin">LOGIN</string>
+    <string name="notengocuenta">¿No tienes cuenta? , </string>
+    <string name="crearaqui">Crea una aqui</string>
+    <string name="hintEmail">Correo</string>
+    <string name="hintName">Nombre</string>
+    <string name="hintUser">Usuario</string>
+    <string name="hintPassword">Contraseña</string>
+    <string name="hintPasswordConfirmar">Confirmar contraseña</string>
+    <string name="txtCrear">AGREGAR</string>
+    <string name="titulo_toolbar_crear">CREAR CUENTA</string>
+    <string name="usernombrecard">ELIAS MERLO</string>
+    <string name="txt_firstword">hace </string>
+    <string name="txt_timecard">20 dias</string>
+    <string name="tab_search">Buscar</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_profile">Yo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

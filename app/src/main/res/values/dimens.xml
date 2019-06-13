@@ -1,0 +1,16 @@
+<resources>
+    <dimen name="padding_horizontal_margin">16dp</dimen>
+    <dimen name="padding_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="edtTextsizeLogin">22dp</dimen>
+    <dimen name="padding_horizontal_login">30dp</dimen>
+    <dimen name="txtSize_notengocuenta">16sp</dimen>
+    <dimen name="edttext_margen_crearcuenta">10dp</dimen>
+    <dimen name="height_carta_foto">200dp</dimen>
+    <dimen name="cornerRadio_cardview">4dp</dimen>
+    <dimen name="usernombrecard_texsize">25dp</dimen>
+    <dimen name="txtsize_firstword">15sp</dimen>
+    <dimen name="marginleft_timecard">5dp</dimen>
+    <dimen name="margintop_like_card">10dp</dimen>
+    <dimen name="bottombar_height">70dp</dimen>
+</resources>

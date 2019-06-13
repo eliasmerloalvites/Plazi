@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="txtUser">Nombre usuario</string>
+    <string name="txtPass">Contraseña</string>
+    <string name="btnLogin">LOGIN</string>
+    <string name="hintEmail">Correo</string>
+    <string name="hintName">Nombre</string>
+    <string name="hintUser">Usuario</string>
+    <string name="hintPassword">Contraseña</string>
+    <string name="hintPasswordConfirmar">Confirmar contraseña</string>
+    <string name="txtCrear">AGREGAR</string>
+    <string name="titulo_toolbar_crear">CREAR CUENTA</string>
+    <string name="tab_search">Buscar</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_profile">Yo</string>
+    <string name="usernombrecard">ELIAS MERLO</string>
+    <string name="txt_firstword">hace </string>
+    <string name="txt_timecard">20 dias</string>
+</resources>

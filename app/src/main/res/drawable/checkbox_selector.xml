@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/icon_like"
+        android:state_accelerated="false"></item>
+    <item
+        android:drawable="@drawable/icon_antilike"
+        android:state_accelerated="true"></item>
+
+</selector>
