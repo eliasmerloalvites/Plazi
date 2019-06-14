@@ -5,12 +5,14 @@
     android:id="@+id/cartafoto"
     android:layout_width="match_parent"
     android:layout_height="@dimen/height_carta_foto"
-    cardview:cardCornerRadius="@dimen/cornerRadio_cardview">
+    cardview:cardCornerRadius="@dimen/cornerRadio_cardview"
+    android:layout_marginBottom="@dimen/padding_vertical_margin">
 
     <FrameLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent">
         <ImageView
+            android:id="@+id/pictureCard"
             android:layout_width="match_parent"
             android:layout_height="@dimen/height_carta_foto"
             android:background="@drawable/bijao"
