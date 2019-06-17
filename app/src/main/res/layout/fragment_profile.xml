@@ -104,10 +104,7 @@
         android:textColor="@color/edtColorWhite"
         android:alpha="0"
         app:layout_behavior="com.zoonref.SimpleViewBehavior"
-        app:dependsOn="@+id/appBarprofile"
-        app:dependType="y"
-        app:dependTargetY="@dimen/limitY_circleimage"
-        app:targetAlpha="1"
+
 
         />
 
