@@ -96,7 +96,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/usernombrecard"
-        android:textSize="@dimen/textsize_usernametoolbarprofile"
+        android:textSize="@dimen/textsize_usernametoolbarprofile"      
         android:elevation="@dimen/elevetion_circleimageprofile"
         android:layout_marginLeft="@dimen/marginleft_usernametoolbarprofile"
         android:layout_marginTop="@dimen/margintop_usernametoolbarprofile"
