@@ -22,5 +22,8 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="seconword_deteil">ME GUSTA</string>
+    <string name="titleImage">TODO EN LA SELVA ES MEJOR</string>
+    <string name="lorem">En el Perú, la Selva y el Oriente (antiguamente llamada la montaña) son denominaciones locales de la Amazonia, la gran selva tropical de América del Sur. La porción de territorio que este bioma ocupa, tiene un área de más de 782.800 km² desde las estribaciones orientales de la cordillera de los Andes hasta los límites políticos con Ecuador, Colombia, Brasil y Bolivia en el llano amazónico.  La Amazonía peruana es una de las áreas con mayor biodiversidad y endemismos del planeta, así como la región biogeográfica peruana con menor población humana. No obstante tener la menor densidad poblacional del país, es a su vez la más diversa antropológicamente. La mayor parte de etnias del país se asientan en ella y son habladas allí el grueso de las lenguas autóctonas del Perú.</string>
 
 </resources>

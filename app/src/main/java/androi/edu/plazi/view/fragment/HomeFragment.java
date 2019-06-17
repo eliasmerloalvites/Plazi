@@ -33,7 +33,7 @@ public class HomeFragment extends Fragment {
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
         View view = inflater.inflate(R.layout.fragment_home, container, false);
-        showToolbar("HOME",false,view);
+        showToolbar(getResources().getString(R.string.tab_home),false,view);
         RecyclerView picturesRecycler = (RecyclerView) view.findViewById(R.id.pictureRecycler);
 
         LinearLayoutManager linearLayoutManager = new LinearLayoutManager(getContext());
@@ -49,9 +49,9 @@ public class HomeFragment extends Fragment {
 
     public ArrayList<Picture> buidPictures(){
         ArrayList<Picture> pictures = new ArrayList<>();
-        pictures.add(new Picture("https://ep01.epimg.net/elpais/imagenes/2019/03/14/paco_nadal/1552547205_448982_1552584608_noticia_normal_recorte1.jpg","ELIAS MERLO ALVITES","4 dias","3"));
-        pictures.add(new Picture("https://t1.ev.ltmcdn.com/es/posts/8/1/3/por_que_el_jaguar_esta_en_peligro_de_extincion_1318_600.jpg","MEDALLY RENGIFO MARROQUIN","4 dias","3"));
-        pictures.add(new Picture("https://www.anipedia.net/imagenes/fotos-de-animales-en-peligro-de-extincion.jpg","DANIEL MERLO ALVITES","4 dias","3"));
+        pictures.add(new Picture("https://ep01.epimg.net/elpais/imagenes/2019/03/14/paco_nadal/1552547205_448982_1552584608_noticia_normal_recorte1.jpg","ELIAS MERLO ALVITES","4 dias","3 Me Gusta"));
+        pictures.add(new Picture("https://okdiario.com/img/2017/06/19/maravillas-naturales-del-mundo-2-990x556.jpg","MEDALLY RENGIFO MARROQUIN","4 dias","20 Me Gusta"));
+        pictures.add(new Picture("https://okdiario.com/img/2017/06/19/maravillas-naturales-del-mundo-3-990x556.jpg","DANIEL MERLO ALVITES","4 dias","13 Me Gusta"));
         return pictures;
     }
 
